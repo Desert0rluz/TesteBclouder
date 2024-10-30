@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/Presentation/Teste.Bclouder.API/Teste.Bclouder.API/bin/Debug/net8.0
+/Presentation/Teste.Bclouder.API/Teste.Bclouder.API/obj
+/Presentation/Teste.Bclouder.API/.vs/Teste.Bclouder.API
+/Presentation/Teste.Bclouder.API/Teste.Bclouder.Business/Teste.Bclouder.Business/obj
+/Presentation/Teste.Bclouder.API/Teste.Bclouder.Data/Teste.Bclouder.Data/obj
