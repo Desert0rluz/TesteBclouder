@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Teste.Bclouder.Business\Teste.Bclouder.Business\Teste.Bclouder.Business.csproj" />
+    <ProjectReference Include="..\Teste.Bclouder.Business\Teste.Bclouder.Business.csproj" />
   </ItemGroup>
 
 </Project>
