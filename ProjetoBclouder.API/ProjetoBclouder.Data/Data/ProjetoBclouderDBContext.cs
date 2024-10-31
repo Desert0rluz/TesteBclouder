@@ -8,8 +8,7 @@ public class ProjetoBclouderDBContext : DbContext
     DbSet<Pessoa> Pessoas { get; set; }
     DbSet<Tarefa> Tarefas { get; set; }
 
-    private string connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ProjetoBclouderDB;"+
-        "Integrated Security=True;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False";
+    private string connectionString = "SUA STRING DE CONEXÃO AQUI";
 
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
