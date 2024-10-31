@@ -1,0 +1,6 @@
+@ProjetoBclouder.API_HostAddress = http://localhost:5063
+
+GET {{ProjetoBclouder.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
