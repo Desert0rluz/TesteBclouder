@@ -45,3 +45,4 @@ Execute as migrações para criar as tabelas necessárias:
             Update-Database
 
 Depois disso é só rodar o projeto.
+A pagina inicial do Swagger vai abrir no navegador e todos os endpoints estarão disponiveis para serem testados.
