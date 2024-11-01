@@ -10,6 +10,8 @@ Este é um sistema simples de Gerenciamento de Tarefas desenvolvido em C# (.NET 
 - **Acompanhamento de Status**: Alterar o status das tarefas entre “pendente”, “em progresso” e “concluída”.
 - **Validação de Exclusão**: Não é permitido excluir uma pessoa se ainda houver tarefas pendentes associadas a ela.
 
+Tanto o cadastro de pessoas, quanto o cadastro de Tarefas podem ser feitos sem vinculo inicial, para realizar o vinculo basta modificar o cadastro e adicionar o Id da pessoa responsavel pela tarefa.
+
 ## Tecnologias Utilizadas
 
 - **Backend**: C# (.NET 8.0)
